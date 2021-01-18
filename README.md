@@ -22,7 +22,7 @@ The top row should be header values for what languages to translate, e.g.
 
 ```input.csv```
 ```
-English,French,Japanese,Korean
+en,fr,ja,ko
 I new recipe has been included on your menu!,,,
 A mashmallow twist!,,,
 A pastry is burning!,,,
